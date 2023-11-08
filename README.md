@@ -1,3 +1,6 @@
+link of video ppt 
+https://docs.google.com/presentation/d/1fyLIXOCWE55A_EkRIyeZd6seSQGtnD4S/edit?usp=drive_link&ouid=115457789683288043458&rtpof=true&sd=true
+
 # sales_analysis
 This is my capstone project
 
